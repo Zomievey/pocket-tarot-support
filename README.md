@@ -1,1 +1,2 @@
-# pocket-tarot-support
+# pocket-tarot-support:
+ EMAIL : pockettarotapp@gmail.com
